@@ -12,7 +12,8 @@ Email Me 👉 ✉️ **aniketgaikwad7055@gmail.com** For Project or Anything Els
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/aniket_offical96k) [![Techno Snag Facebook](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/AniketCryptoX)
+[![Aniket Gaikwad Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/aniket_offical96k) [![Aniket Gaikwad Facebook](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://x.com/AniketCryptoX)
+[![Aniket Gaikwad Linkdin](https://img.shields.io/badge/linkdin-Techno%20Snag-pink?logo=linkidin&logoColor=white)](https://www.linkedin.com/in/aniket-gaikwad-64aba3299/)
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
