@@ -33,6 +33,18 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 
+## 📊 Language Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket6001&theme=github_dark&hide_border=true&layout=compact)
+
+## 🔗 Web3 / Blockchain Focus
+
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum)
+![Web3](https://img.shields.io/badge/Web3-0d1117?style=for-the-badge&logo=web3dotjs)
+![React](https://img.shields.io/badge/Frontend-React%20%2B%20TS-0d1117?style=for-the-badge)
+
+
 
 
 ### 🔝 Top Contributed Repo
