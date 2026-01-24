@@ -1,11 +1,11 @@
 <!-- ===================== ANIMATED BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,100:020617&text=Aniket%20Gaikwad&fontColor=00F7FF&fontSize=48&fontAlignY=38&desc=Founder%20Mindset%20•%20Startup%20Engineer%20•%20Web3%20Builder&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,100:020617&text=Aniket%20Gaikwad&fontColor=00F7FF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20•%20Startup%20Builder%20•%20Web3&descAlignY=58&animation=fadeIn" />
 </p>
 
 <!-- ===================== TYPING TEXT ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Startup-Focused+Full+Stack+Developer;Web3+%7C+Blockchain+%7C+FinTech+Engineer;Clean+Architecture+%7C+Scalable+Systems;Builder+Not+Just+a+Coder" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=FAANG-Ready+Software+Engineer;Startup+%7C+Web3+%7C+FinTech+Builder;Scalable+Systems+%7C+Clean+Architecture;Engineer+with+Founder+Mindset" />
 </p>
 
 <!-- ===================== BADGES ===================== -->
@@ -23,24 +23,47 @@
 
 ---
 
-## 🧠 Founder Bio (Not a Typical Dev)
+## 👨‍💻 Professional Summary
 
-I’m **Aniket**, a **startup-minded full-stack engineer** who thinks in **systems, scale, and sustainability**.
+Software Engineer with a **strong foundation in scalable systems, clean architecture, and production-grade development**.  
+Experienced in building **data-heavy dashboards, secure backend APIs, and blockchain-integrated applications**.
 
-I don’t chase trends.  
-I build **products that survive production, users, and time**.
+I focus on **engineering correctness, long-term maintainability, and business-aligned system design**.
 
-> I approach engineering like a founder:
-> - 📈 Business-aligned decisions  
-> - 🔐 Security-first architecture  
-> - 🧱 Long-term maintainability  
-> - 🚀 Built for scale, not demos  
+> Think like an engineer.  
+> Build like a founder.
 
 ---
 
- 
+## 🧠 Founder / CTO Mindset
 
-**Best fit for:** Startups, SaaS, Web3, FinTech, Admin-heavy platforms
+- Architecture before implementation  
+- Security and scalability over shortcuts  
+- Long-term code ownership  
+- Systems that survive real users and production load  
+
+I don’t chase trends — I build **durable software**.
+
+---
+
+## 🚀 Engineering Strengths (Recruiter View)
+
+- **Frontend:** Component-driven UI, performance optimization, charts & dashboards  
+- **Backend:** REST APIs, authentication, RBAC, data integrity  
+- **Systems:** Modular architecture, separation of concerns  
+- **Web3:** Wallet integration, transaction tracking, blockchain explorers  
+- **Collaboration:** Documentation, clean commits, maintainable code  
+
+---
+
+## 🧠 System Design Focus
+
+- Stateless backend APIs with token-based authentication  
+- Role-based access control (RBAC)  
+- Modular frontend architecture  
+- Scalable data visualization pipelines  
+- Secure transaction processing flows  
+- Clear separation of business logic and UI  
 
 ---
 
@@ -60,7 +83,7 @@ Git • GitHub • VS Code
 
 ---
 
-## 🧩 Pinned Projects (Founder Picks)
+## 🧩 Featured Projects
 
 <p align="center">
   <a href="https://github.com/aniket6001/project-1">
@@ -80,25 +103,21 @@ Git • GitHub • VS Code
   </a>
 </p>
 
-👉 Replace `project-1`, `project-2`, etc. with real repo names.
-
 ---
 
 ## 🌍 Portfolio & Live Demos
 
-🚀 **Portfolio Website**  
+🚀 **Portfolio**  
 👉 https://your-portfolio-link.com  
 
-📊 **Live Dashboards & Demos**  
-- Admin Panel – Role-based access & analytics  
+📊 **Live Systems**
+- Admin Dashboard – RBAC & analytics  
 - Blockchain Explorer – Tx hash tracking  
 - FinTech Wallet System – Deposits & withdrawals  
 
-*(Links inside individual repositories)*
-
 ---
 
-## 📊 GitHub Performance (Dark)
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniket6001&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
@@ -111,15 +130,21 @@ Git • GitHub • VS Code
 
 ---
 
+## 🤝 Open To
 
-📬 Reach out — let’s build **real products**, not side projects.
+🚀 Software Engineer roles (FAANG / Startups)  
+🔗 Web3 & FinTech platforms  
+🧠 System-heavy, long-term products  
+💼 Founder / CTO collaborations  
+
+📬 Let’s build **software that lasts**.
 
 ---
 
 <div align="center">
 
-### 🖤 Built with intent by **aniket6001**
+### 🖤 Built with intent by **Aniket Gaikwad**
 
-> *“Strong products are engineered, not hacked together.”*
+> *“Strong systems are designed, not rushed.”*
 
 </div>
