@@ -6,10 +6,9 @@ Email Me 👉 ✉️ **aniketgaikwad7055@gmail.com** For Project or Anything Els
 - 🔭 **I’m currently working on:** Mulsan it info tech
 - 🌱 **I’m currently learning:** Web 3 Blockchain
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 I am a Blockchain Developer. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
