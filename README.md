@@ -1,9 +1,9 @@
-# 💫 Hi 👋, I'm Gaikwad Aniket
+#  Hi 👋, I'm Gaikwad Aniket
 **A Full Stack Developer || Blockchain Developer || Web 3**
  
 Email Me 👉 ✉️ **aniketgaikwad7055@gmail.com** For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Mulsan it info tech
+- 🔭 **I’m currently working on:** Mulsan  info tech
 - 🌱 **I’m currently learning:** Web 3 Blockchain
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
