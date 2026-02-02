@@ -48,7 +48,6 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
