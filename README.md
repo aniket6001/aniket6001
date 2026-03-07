@@ -1,50 +1,63 @@
 <h1 align="center">Hi 👋, I'm Aniket Gaikwad</h1>
-<h3 align="center">Backend Developer | API Developer | Blockchain Enthusiast</h3>
+<h3 align="center">Blockchain Developer | Backend Engineer | Web3 Enthusiast</h3>
 
 <p align="center">
-🚀 Passionate about building scalable backend systems and modern web applications
+Building decentralized applications and scalable backend systems 🚀
 </p>
 
 <p align="center">
-<a href="https://portfolio-chain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/aniket-gaikwad-64aba3299/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://portfolio-chain.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aniket-gaikwad-64aba3299/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-- 💻 Backend Developer focused on **Node.js & API Development**
-- 🌱 Currently learning **Blockchain & Web3 Development**
-- 🚀 Building scalable **backend systems and trading platforms**
-- 🔐 Interested in **crypto wallets & secure architectures**
-- 🌐 Portfolio:  
-  **https://portfolio-chain.vercel.app/**
+- 🔗 Blockchain & Web3 Developer  
+- 💻 Backend Developer using **Node.js & Express**
+- 🌱 Currently learning **Smart Contracts & Web3 Architecture**
+- 🔐 Interested in **Crypto Wallet Systems & Blockchain Security**
+- ⚡ Building **Decentralized Applications (DApps)**
+
+🌐 Portfolio  
+https://portfolio-chain.vercel.app/
 
 ---
 
-# 🚀 Tech Stack
+# ⛓ Blockchain Skills
 
-### 💻 Backend
+- Web3 Development
+- Smart Contracts
+- Crypto Wallet Integration
+- Blockchain Architecture
+- Decentralized Applications (DApps)
+
+---
+
+# 🛠 Tech Stack
+
+### Blockchain
+- Solidity
+- Ethereum
+- Web3.js
+- Ethers.js
+
+### Backend
 - Node.js
 - Express.js
 - REST APIs
 
-### 🗄 Database
+### Database
 - MongoDB
 - Mongoose
 
-### 🔐 Authentication & Security
-- JWT Authentication
-- Crypto Encryption
-
-### 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-
-### 🛠 Tools
+### Tools
 - Git
 - GitHub
 - Postman
@@ -64,23 +77,22 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Blockchain Projects
 
-## 🌾 Agro Aadat Trading System
+## ⛓ Agro Trading Blockchain System
 
-Backend system for agricultural trading platform.
+A blockchain-powered agricultural trading platform.
 
-Features:
+Features
 
-- Admin & Aadat management
-- Farmer, Trader, Carrier system
-- Product grade management
-- Wallet system with encrypted keys
-- Secure authentication
+- Secure transaction system
+- Blockchain-based product tracking
+- Wallet integration
+- Smart contract based trading
 
-Tech Stack:
+Tech Stack
 
-Node.js • Express • MongoDB • JWT • Crypto
+Node.js • Express • MongoDB • Web3 • Crypto
 
 ---
 
@@ -97,4 +109,4 @@ https://github.com/YOURUSERNAME
 
 ---
 
-⭐ *Building scalable systems and exploring the future of Web3.*
+⭐ *Exploring the future of decentralized technology and Web3.*
