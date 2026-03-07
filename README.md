@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aniket Gaikwad</h1>
-<h3 align="center">Blockchain Developer | Backend Engineer | Web3 Enthusiast</h3>
+<h3 align="center">Blockchain Developer | Web3 Engineer | Backend Developer</h3>
 
 <p align="center">
-Building decentralized applications and scalable backend systems 🚀
+🚀 Building Decentralized Applications (DApps) & Scalable Backend Systems
 </p>
 
 <p align="center">
@@ -17,51 +17,53 @@ Building decentralized applications and scalable backend systems 🚀
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🔗 Blockchain & Web3 Developer  
-- 💻 Backend Developer using **Node.js & Express**
-- 🌱 Currently learning **Smart Contracts & Web3 Architecture**
-- 🔐 Interested in **Crypto Wallet Systems & Blockchain Security**
-- ⚡ Building **Decentralized Applications (DApps)**
+- ⛓ Blockchain & Web3 Developer
+- 💻 Backend Developer using **Node.js**
+- 🧠 Learning **Smart Contracts & Web3 Architecture**
+- 🔐 Interested in **Decentralized Security & Crypto Wallet Systems**
+- 🌍 Building **DApps and Blockchain based applications**
 
 🌐 Portfolio  
 https://portfolio-chain.vercel.app/
 
 ---
 
-# ⛓ Blockchain Skills
+# ⛓ Blockchain Stack
 
-- Web3 Development
-- Smart Contracts
-- Crypto Wallet Integration
-- Blockchain Architecture
-- Decentralized Applications (DApps)
+- Solidity
+- Hardhat
+- Foundry
+- Ethers.js
+- Web3.js
+- OpenZeppelin
+- Chainlink
+- The Graph
+- IPFS
+- MetaMask
+- Ganache
+- Thirdweb
 
 ---
 
-# 🛠 Tech Stack
+# ⚙ Backend & Development Stack
 
-### Blockchain
-- Solidity
-- Ethereum
-- Web3.js
-- Ethers.js
-
-### Backend
 - Node.js
-- Express.js
-- REST APIs
-
-### Database
 - MongoDB
-- Mongoose
-
-### Tools
-- Git
+- React
+- Docker
 - GitHub
-- Postman
-- VS Code
+
+---
+
+# 🛠 Tools & Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,docker,git,github"/>
+
+</p>
 
 ---
 
@@ -77,22 +79,21 @@ https://portfolio-chain.vercel.app/
 
 ---
 
-# 🚀 Blockchain Projects
+# 🚀 Web3 Projects
 
-## ⛓ Agro Trading Blockchain System
-
-A blockchain-powered agricultural trading platform.
+### ⛓ Blockchain Trading Platform
+Secure decentralized trading system using smart contracts.
 
 Features
 
-- Secure transaction system
-- Blockchain-based product tracking
+- Smart contract transactions
 - Wallet integration
-- Smart contract based trading
+- Blockchain-based product tracking
+- Secure decentralized data
 
 Tech Stack
 
-Node.js • Express • MongoDB • Web3 • Crypto
+Solidity • Hardhat • Node.js • MongoDB • Web3
 
 ---
 
@@ -109,4 +110,4 @@ https://github.com/YOURUSERNAME
 
 ---
 
-⭐ *Exploring the future of decentralized technology and Web3.*
+⭐ *Passionate about building the future of Web3 and decentralized systems.*
