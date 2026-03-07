@@ -1,36 +1,43 @@
 <h1 align="center">Hi 👋, I'm Aniket Gaikwad</h1>
-<h3 align="center">Blockchain Developer | Web3 Engineer | Backend Developer</h3>
 
 <p align="center">
-🚀 Building Decentralized Applications (DApps) & Scalable Backend Systems
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Web3+Engineer;Smart+Contract+Developer;Backend+Developer;Building+Decentralized+Applications"/>
+</a>
 </p>
 
 <p align="center">
-<a href="https://portfolio-chain.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aniket-gaikwad-64aba3299/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- ⛓ Blockchain & Web3 Developer
-- 💻 Backend Developer using **Node.js**
-- 🧠 Learning **Smart Contracts & Web3 Architecture**
-- 🔐 Interested in **Decentralized Security & Crypto Wallet Systems**
-- 🌍 Building **DApps and Blockchain based applications**
+🚀 Blockchain Developer passionate about building **decentralized systems**
+
+- ⛓ Web3 & Smart Contract Developer
+- 💻 Backend Developer (Node.js)
+- 🔐 Interested in **crypto wallets & blockchain security**
+- 🌍 Building **DApps and decentralized platforms**
 
 🌐 Portfolio  
 https://portfolio-chain.vercel.app/
 
+💼 LinkedIn  
+https://www.linkedin.com/in/aniket-gaikwad-64aba3299/
+
 ---
 
-# ⛓ Blockchain Stack
+# ⛓ Web3 & Blockchain Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,docker,git,github"/>
+
+</p>
+
+### Blockchain Tools
 
 - Solidity
 - Hardhat
@@ -47,23 +54,12 @@ https://portfolio-chain.vercel.app/
 
 ---
 
-# ⚙ Backend & Development Stack
+# 🏆 Web3 Badges
 
-- Node.js
-- MongoDB
-- React
-- Docker
-- GitHub
-
----
-
-# 🛠 Tools & Frameworks
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,docker,git,github"/>
-
-</p>
+![Ethereum](https://img.shields.io/badge/Ethereum-Blockchain-blue)
+![Solidity](https://img.shields.io/badge/Solidity-SmartContract-black)
+![Web3](https://img.shields.io/badge/Web3-Decentralized-purple)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 
 ---
 
@@ -79,17 +75,38 @@ https://portfolio-chain.vercel.app/
 
 ---
 
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
 # 🚀 Web3 Projects
 
-### ⛓ Blockchain Trading Platform
-Secure decentralized trading system using smart contracts.
+### ⛓ Blockchain Trading System
+
+Decentralized agricultural trading platform using blockchain.
 
 Features
 
 - Smart contract transactions
-- Wallet integration
-- Blockchain-based product tracking
-- Secure decentralized data
+- Secure wallet integration
+- Blockchain product tracking
+- Decentralized trading system
 
 Tech Stack
 
@@ -110,4 +127,4 @@ https://github.com/YOURUSERNAME
 
 ---
 
-⭐ *Passionate about building the future of Web3 and decentralized systems.*
+⭐ *Building the future of decentralized internet (Web3).*
