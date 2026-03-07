@@ -1,60 +1,83 @@
-#  Hi , I'm Gaikwad Aniket
-**A Full Stack Developer || Blockchain Developer || Web 3**
- 
-Email Me 👉 ✉️ **aniketgaikwad7055@gmail.com** For Project or Anything Else. 
+<h1 align="center">Hi 👋, I'm Aniket Gaikwad</h1>
+<h3 align="center">Backend Developer | API Architect | Blockchain Enthusiast</h3>
 
--  **I’m currently working on:** Mulsan  info tech
--  **I’m currently learning:** Web 3 Blockchain
--  **I’m looking to collaborate on:** CoreXadmin
--  **Fun fact:** I Love Tech and Tech Love Me
+<p align="center">
+Building scalable backend systems, APIs, and blockchain-powered applications.
+</p>
 
-## 🔗 I am a Blockchain Developer. 
+---
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+## 🚀 About Me
 
-[![Aniket Gaikwad Instagram](https://img.shields.io/badge/Instagram-Aniket%20Gaikwad-pink?logo=instagram&logoColor=white)](https://www.instagram.com/aniket_offical96k) [![Aniket Gaikwad Facebook](https://img.shields.io/badge/Twitter-Aniket%20Gaikwad-lightblue?logo=twitter&logoColor=white)](https://x.com/AniketCryptoX)
-[![Aniket Gaikwad Linkdin](https://img.shields.io/badge/linkdin-Aniket%20Gaikwad-pink?logo=linkidin&logoColor=white)](https://www.linkedin.com/in/aniket-gaikwad-64aba3299/)
+- 🔭 Currently working on **Agro Aadat Trading System**
+- 🌱 Learning **Blockchain, Web3, and System Design**
+- 💻 Backend Stack: **Node.js, Express, MongoDB**
+- 🔐 Interested in **Crypto Wallet Systems & Security**
+- ⚡ Focused on building **scalable backend APIs**
+- 📍 India
 
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+---
 
-<!-- Snake Game Repo View -->
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+### Backend
+- Node.js
+- Express.js
+- REST API Development
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Database
+- MongoDB
+- Mongoose
 
+### Authentication & Security
+- JWT Authentication
+- Crypto Encryption
+- Secure Wallet Systems
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Tools
+- Git & GitHub
+- Postman
+- VS Code
 
+---
 
-## 🔗 Web3 / Blockchain Focus
+## 📊 GitHub Stats
 
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum)
-![Web3](https://img.shields.io/badge/Web3-0d1117?style=for-the-badge&logo=web3dotjs)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black)
-![React](https://img.shields.io/badge/Frontend-React%20%2B%20TS-0d1117?style=for-the-badge)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
 
+---
 
+## 🚀 Featured Projects
 
+### 🌾 Agro Aadat Trading System
+Backend system for agricultural trading.
 
+Features:
+- Admin & Aadat management
+- Farmer, Trader, Carrier roles
+- Product grade system (A–E)
+- Wallet system with encrypted private keys
+- Secure authentication
 
+Tech Stack:
+Node.js • Express • MongoDB • JWT • Crypto
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/aniket-gaikwad-64aba3299/
+
+- 💻 GitHub  
+  https://github.com/YOURUSERNAME
+
+---
+
+⭐ *Building scalable systems and exploring the future of Web3.*
