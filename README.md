@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aniket Gaikwad</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Web3+Engineer;Smart+Contract+Developer;Backend+Developer;Building+Decentralized+Applications"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Blockchain+Developer;Web3+Engineer;Smart+Contract+Developer;Backend+Developer;Building+Decentralized+Applications"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🧑‍💻 About Me
 
-🚀 Blockchain Developer passionate about building **decentralized systems**
+🚀 Passionate **Blockchain & Web3 Developer** building decentralized applications and scalable backend systems.
 
-- ⛓ Web3 & Smart Contract Developer
+- ⛓ Web3 Developer
 - 💻 Backend Developer (Node.js)
-- 🔐 Interested in **crypto wallets & blockchain security**
-- 🌍 Building **DApps and decentralized platforms**
+- 🔐 Smart Contract Security Enthusiast
+- 🌍 Exploring the Future of **Decentralized Internet**
 
 🌐 Portfolio  
 https://portfolio-chain.vercel.app/
@@ -29,7 +23,7 @@ https://www.linkedin.com/in/aniket-gaikwad-64aba3299/
 
 ---
 
-# ⛓ Web3 & Blockchain Stack
+# ⛓ Web3 Ecosystem
 
 <p align="center">
 
@@ -37,7 +31,7 @@ https://www.linkedin.com/in/aniket-gaikwad-64aba3299/
 
 </p>
 
-### Blockchain Tools
+### Blockchain Stack
 
 - Solidity
 - Hardhat
@@ -60,6 +54,7 @@ https://www.linkedin.com/in/aniket-gaikwad-64aba3299/
 ![Solidity](https://img.shields.io/badge/Solidity-SmartContract-black)
 ![Web3](https://img.shields.io/badge/Web3-Decentralized-purple)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Smart Contracts](https://img.shields.io/badge/SmartContracts-Solidity-red)
 
 ---
 
@@ -97,20 +92,42 @@ https://www.linkedin.com/in/aniket-gaikwad-64aba3299/
 
 # 🚀 Web3 Projects
 
-### ⛓ Blockchain Trading System
+## ⛓ Blockchain Trading Platform
 
-Decentralized agricultural trading platform using blockchain.
+Decentralized agricultural trading platform.
 
 Features
 
-- Smart contract transactions
-- Secure wallet integration
+- Smart contract based transactions
+- Wallet integration
 - Blockchain product tracking
-- Decentralized trading system
+- Secure decentralized trading
 
 Tech Stack
 
 Solidity • Hardhat • Node.js • MongoDB • Web3
+
+---
+
+# 🛠 Development Tools
+
+- Node.js
+- MongoDB
+- React
+- Docker
+- GitHub
+- Postman
+- VS Code
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=blue&style=flat"/>
+
+</p>
 
 ---
 
@@ -127,4 +144,4 @@ https://github.com/YOURUSERNAME
 
 ---
 
-⭐ *Building the future of decentralized internet (Web3).*
+⭐ *Building the future of Web3 and decentralized technology.*
