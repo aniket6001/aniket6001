@@ -7,7 +7,7 @@
 <p align="center"> 
 <a href="https://aniket-gaikwad.vercel.app">
 <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-blue?style=for-the-badge"/>
-</a>
+</a> 
 <a href="https://github.com/aniketgaikwad">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
