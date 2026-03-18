@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Blockchain+Developer;Web3+Engineer;Smart+Contract+Developer;Backend+Developer;Building+Decentralized+Applications;Solidity+Developer;Node.js+API+Developer"/>  
-</p>
+</p> 
  
 <p align="center"> 
 <a href="https://aniket-gaikwad.vercel.app">
